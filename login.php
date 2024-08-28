@@ -23,7 +23,7 @@
 	<!-- Navbar Start -->
 	<nav class="navbar navbar-light bg-white shadow">
 	  <div class="container">
-	    <a class="navbar-brand" href="#">Login</a>
+	    <a class="navbar-brand" href="#">Halaman Login</a>
 	  </div>
 	</nav>
 	<!-- Navbar End -->
